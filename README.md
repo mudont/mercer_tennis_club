@@ -1,7 +1,7 @@
 # Mercer Tennis Club
 Requirements for website and automation for tennis club
 
-## Quick list of features
+## Quick Wishlist of features
 
 1. Entities
     1. Staff
